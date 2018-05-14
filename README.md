@@ -26,6 +26,12 @@ The following patches have been applied manually
 6. Xtile
     - dwm-6.0-xtile.diff
 
+7. Scratchpad
+    - dwm-scratchpad-20170207-bb3bd6f.diff
+
+8. Scheme Switch
+    - dwm-scheme_switch-20170804-ceac8c9.diff
+
 
 Personal Additions
 ------------------
