@@ -29,6 +29,14 @@ The following patches have been applied manually
 7. Scratchpad
     - dwm-scratchpad-20170207-bb3bd6f.diff
 
+8. Warp
+    - dwm-warp-git-20160626-7af4d43.diff
+
+9. Push (no master)
+    - dwm-6.1-push_no_master.diff
+
+10. Zoomswap
+    - dwm-zoomswap-20160731-56a31dc.diff
 
 Personal Additions
 ------------------
