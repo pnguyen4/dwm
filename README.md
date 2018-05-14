@@ -6,7 +6,7 @@ Version git-20180502-c8e9479
 
 Applied (official) patches
 -------------------------
-The following patches have been applied, and fixed to co-exist
+The following patches have been applied manually
 
 1. Systray:
     - dwm-systray-20180314-3bd8466.diff
