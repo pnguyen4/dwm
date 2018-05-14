@@ -13,8 +13,8 @@ static const int topbar             = 0;        /* 0 means bottom bar */
 /*   Display modes of the tab bar: never shown, always shown, shown only in */
 /*   monocle mode in presence of several windows.                           */
 /*   Modes after showtab_nmodes are disabled                                */
-enum showtab_modes { showtab_never, showtab_auto, showtab_nmodes, showtab_always};
-static const int showtab            = showtab_auto; /* Default tab bar show mode */
+enum showtab_modes { showtab_never, showtab_auto, showtab_always, showtab_nmodes};
+static const int showtab            = showtab_always; /* Default tab bar show mode */
 static const Bool toptab            = True;    /* False means bottom tab bar */
 
 static const char *fonts[]          = { "terminus:size=10" };
