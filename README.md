@@ -2,6 +2,39 @@ dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
+Version git-20180502-c8e9479
+
+Applied (official) patches
+-------------------------
+The following patches have been applied, and fixed to co-exist
+
+1. Systray:
+    - dwm-systray-20180314-3bd8466.diff
+
+2. Tab Mode:
+    - dwm-tab-v2b-pertab-56a31dc.diff
+
+3. Pertab:
+    - see above (combined patch)
+
+4. Resize Corners
+    - dwm-resizecorners-6.1.diff
+
+5. EWMHtags
+    - dwm-ewmhtags-20180101-db22360.diff
+
+6. Xtile
+    - dwm-6.0-xtile.diff
+
+
+Personal Additions
+------------------
+- Default font is terminus at 10pt
+- modified config.mk for OpenBSD
+- mod key set to super ('windows') key
+- resizehints disabled
+- Manpage edited to include xtile commands 
+
 
 Requirements
 ------------
