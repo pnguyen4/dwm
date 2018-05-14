@@ -41,10 +41,11 @@ The following patches have been applied manually
 Personal Additions
 ------------------
 - Default font is terminus at 10pt
-- modified config.mk for OpenBSD
-- mod key set to super ('windows') key
-- resizehints disabled
-- Manpage edited to include xtile commands 
+- Modified config.mk for OpenBSD
+- Mod key set to super ('windows') key
+- Resizehints disabled
+- Manpage edited to include xtile, push, and scratchpad commands
+- Tab mode is set to default layout with tab bar set to showtab_auto ¯\_(ツ)_/¯
 
 
 Requirements
